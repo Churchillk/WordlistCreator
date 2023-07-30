@@ -1,4 +1,4 @@
-sthis is a simple code that helps in creating a world list
+this is a simple code that helps in creating a world list
 all you do is gather information and enter number of letters
  present then enter each letter in 
 the information gatherd for instance when you gather name
